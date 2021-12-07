@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bluDabbadi
+- 👋 Hi, I’m @bluDabbadi from Munich, Germany
 - 👀 I’m interested in to interact with very good engineers to talk about job opportunities
 - 🌱 I’m currently learning IT basics :-)
 - 💞️ I’m looking to collaborate on ...
